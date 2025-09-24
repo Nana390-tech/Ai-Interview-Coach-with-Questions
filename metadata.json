@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Coach With Questions",
+  "description": "A web application for students to practice mock interview questions with AI-powered assistance for brainstorming, vocabulary, and grammar, tailored for A2+ to B1 English learners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
